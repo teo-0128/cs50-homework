@@ -23,7 +23,7 @@ int main(void)
                 }
                 else
                 {
-                    printf("#");//写到这才发现笨蛋了
+                    printf("#");
                 }
             }
             printf("\n");
